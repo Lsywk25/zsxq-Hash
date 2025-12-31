@@ -6,10 +6,15 @@
     "notice": "欢迎使用 ZSXQ 爬虫工具 v5.0！如有问题请联系客服。",
     
     "contact": {
-        "qq_group": "123456789",
-        "qq": "987654321",
+        "wechat": "你的微信号",
+        "wechat_url": "",
+        "qq_group": "",
+        "qq": "",
+        "telegram": "",
         "xianyu_url": "https://www.goofish.com/item?id=YOUR_ITEM_ID",
-        "website": ""
+        "taobao_url": "",
+        "website": "",
+        "custom": ""
     },
     
     "valid_hashes": {
