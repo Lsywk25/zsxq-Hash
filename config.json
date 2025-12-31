@@ -7,30 +7,21 @@
     
     "contact": {
         "wechat": "你的微信号",
-        "wechat_url": "",
-        "qq_group": "",
-        "qq": "",
-        "telegram": "",
-        "xianyu_url": "https://www.goofish.com/item?id=YOUR_ITEM_ID",
-        "taobao_url": "",
-        "website": "",
-        "custom": ""
+        "xianyu_url": "https://www.goofish.com/item?id=YOUR_ITEM_ID"
     },
     
     "valid_hashes": {
-        "lifetime": [],
-        "monthly": [],
-        "weekly": [],
-        "daily": []
+        "lifetime": ["7d5e3e319e79547db48bade2a3663343b8081ecad489bb0f5cf4c8a7aebd08ef"],
+        "monthly": ["b29afd6ff9c3bf328b82add483a5edee6744bb80aeda08799a9b8e1cac4c585d"],
+        "weekly": ["7b29c1d7f1fe1c4884e15ed9b78fde78d4bc06f306d00a456e11b8403b9a1fb6"],
+        "daily": ["28e25ad8496f389dbcd512d3a1a2c2515d2832a368b155c02160877f8d7a7625"]
     },
     
-    "valid_devices": [
-        "95644985449ad6c0be5fefe1767793022e46a663a240562301e14e543f62df22"
-    ],
+    "valid_devices": ["95644985449ad6c0be5fefe1767793022e46a663a240562301e14e543f62df22"],
     
     "timestamps": {
-        "monthly": {},
-        "weekly": {},
-        "daily": {}
+        "monthly": {"b29afd6ff9c3bf328b82add483a5edee6744bb80aeda08799a9b8e1cac4c585d": 1738368000},
+        "weekly": {"7b29c1d7f1fe1c4884e15ed9b78fde78d4bc06f306d00a456e11b8403b9a1fb6": 1735862400},
+        "daily": {"28e25ad8496f389dbcd512d3a1a2c2515d2832a368b155c02160877f8d7a7625": 1735776000}
     }
 }
